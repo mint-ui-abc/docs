@@ -1,5 +1,5 @@
 # docs
-> documentation for mint-ui.
+> documentation for mint-ui-abc.
 
 ## Development
 ```shell
